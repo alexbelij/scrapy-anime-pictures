@@ -1,9 +1,9 @@
 # scrapy-anime-pictures
- Crawl Image form https://anime-pictures.net
+ Crawl Image form https://anime-pictures.net use scrapy
 
 ### Induction
 
-If you understand how it work.
+If you understand how scrapy work.
 
 Just read Usage
 
