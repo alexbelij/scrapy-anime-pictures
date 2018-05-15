@@ -52,7 +52,7 @@ tags =
 ``` $ scrapy crawl AnimePictures ```
 
 # other
-* Output file will sort by author, maybe I will that it can sort by tags(or by author) later
+* Output file will sort by author, maybe I will let it can sort by tags(or by author) later
 * I'm not sure whether cookie will execute correctly in browser
 
 ## version
